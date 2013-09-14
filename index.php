@@ -6,7 +6,11 @@
 </head>
 
 <body>
-Welcome to P1
+<p>Greg Misicko</p>
+
+<p>Biography information</p>
+
+<p>Development Environment</p>
 </body>
 
 </html>
