@@ -3,7 +3,7 @@
 <head>
     <title>CS E-15 Project 1 : Greg Misicko</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="stylesheet" href="http://p1.talen.me/misicko.css">
+    <link rel="stylesheet" href="http://www.goldstem.com/styles/misicko.css">
 </head>
 
 <body>
