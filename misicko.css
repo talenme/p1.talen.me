@@ -1,0 +1,21 @@
+/*!
+ * Greg Misicko
+ * Very simple css file created for Project 1
+ * CS E15
+ */
+
+body
+{
+     margin: 0;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+     background-color:#ffffff;
+     font-size: 18px;
+     line-height: 20px;
+     color: #000000;
+}
+
+p 
+{
+     color: black;
+     font-size: 100%;
+}
